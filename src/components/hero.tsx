@@ -6,7 +6,7 @@ export function Hero() {
         <section className="container mx-auto px-4 py-32">
             <div className="max-w-5xl">
                 <div className="mb-6 inline-flex items-center rounded-full border px-4 py-2 text-sm text-muted-foreground">
-                    Software Engineer • AI Engineer • Backend Specialist
+                    Software Engineer • AI Engineer • Fullstack Specialist
                 </div>
 
                 <h1 className="mb-8 text-5xl font-bold tracking-tight md:text-7xl">
@@ -24,9 +24,9 @@ export function Hero() {
 
                 <p className="mb-10 max-w-3xl text-lg leading-8 text-muted-foreground md:text-xl">
                     I'm Arwani Maulana, a Software Engineer specializing in
-                    backend systems, artificial intelligence, cloud
+                    fullstack systems, artificial intelligence, cloud
                     infrastructure, and enterprise applications.
-                    I build scalable APIs, banking platforms,
+                    I build scalable APIs, good UX interfaces, banking platforms,
                     automation tools, and AI-powered solutions that
                     solve real business problems.
                 </p>

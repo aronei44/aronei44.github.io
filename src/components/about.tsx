@@ -13,7 +13,7 @@ export function About() {
                     <div className="space-y-6 text-lg leading-8 text-muted-foreground">
                         <p>
                             I'm a Software Engineer from Indonesia with a strong
-                            focus on backend engineering, artificial intelligence,
+                            focus on fullstack engineering, artificial intelligence,
                             cloud infrastructure, and system automation.
                         </p>
 
@@ -28,7 +28,7 @@ export function About() {
 
                         <p>
                             I primarily work with Rust, Python, Laravel,
-                            React, and PostgreSQL, while also designing
+                            React, Next.JS, and PostgreSQL, while also designing
                             scalable infrastructure using Docker, Linux,
                             Nginx, Redis, and observability tools.
                         </p>

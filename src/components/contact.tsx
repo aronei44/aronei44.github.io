@@ -15,7 +15,7 @@ export function Contact() {
                 </h2>
 
                 <p className="mx-auto mb-10 max-w-2xl text-lg leading-8 text-muted-foreground">
-                    Whether you need a scalable backend, an AI-powered
+                    Whether you need a scalable backend, best UX interfaces, an AI-powered
                     application, workflow automation, or a complete
                     production-ready platform, I can help design,
                     build, and deploy it.
